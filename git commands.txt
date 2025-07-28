@@ -1,4 +1,0 @@
-(14/07/25)
-init add commit status remote push version
-(21/07/25) 
-branch checkout merge push log log--summary branch(-d) branch(-u) ls-files rm(to delete files) branch(-a) --delete(to delete branch in GitHub) pull history
